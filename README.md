@@ -1,6 +1,6 @@
 # ¡Hola! Soy Sebastián Arce Cendoya 👋🌍
 
-Anclado en la intersección entre la **Geografía Física**, las **Geotecnologías** y la **Investigación Científica**. Actualmente me desempeño como becario doctoral del CONICET y docente universitario, especializándome en el modelado espacial, teledetección y resiliencia hídrica.
+Anclado en la intersección entre la **Geografía**, las **Geotecnologías** y la **Investigación Científica**. Actualmente me desempeño como becario doctoral del CONICET y docente universitario, especializándome en el modelado espacial, teledetección y respuesta hídrica.
 
 ---
 
